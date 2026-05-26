@@ -1,0 +1,2 @@
+agent,package,warehouse,warehouse_x,warehouse_y,destination_x,destination_y,leg1_dist,leg2_dist,trip_distance,delay_minutes,status
+A3,P3,W3,100,25,105,20,7.07,7.07,14.14,0,DELIVERED
